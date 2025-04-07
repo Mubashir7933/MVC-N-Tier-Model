@@ -13,3 +13,6 @@ C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.DataAccess\obj\Debug\net9.0\MyWebApp.
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.DataAccess\obj\Debug\net9.0\refint\MyWebApp.DataAccess.dll
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.DataAccess\obj\Debug\net9.0\MyWebApp.DataAccess.pdb
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.DataAccess\obj\Debug\net9.0\ref\MyWebApp.DataAccess.dll
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.DataAccess\bin\Debug\net9.0\MyWebApp.DataAccess.runtimeconfig.json
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.DataAccess\obj\Debug\net9.0\MyWebApp.DataAccess.sourcelink.json
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.DataAccess\obj\Debug\net9.0\MyWebApp.DataAccess.genruntimeconfig.cache

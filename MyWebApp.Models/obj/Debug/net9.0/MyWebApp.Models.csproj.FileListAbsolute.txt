@@ -9,3 +9,4 @@ C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Mode
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\refint\MyWebApp.Models.dll
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.pdb
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\ref\MyWebApp.Models.dll
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.sourcelink.json
