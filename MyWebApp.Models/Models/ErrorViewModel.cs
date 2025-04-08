@@ -1,4 +1,4 @@
-using MyWebApp.Models.Models;
+using MyWebApp.Models;
 
 
 public class ErrorViewModel
