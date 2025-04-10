@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Text;
 using Microsoft.EntityFrameworkCore;
 using MyWebApp.DataAccess.Data;
-using MyWebApp.DataAccess.Repository.IRepository;
+using MyWebApp.DataAccess.Repositories.IRepository;
 
 namespace MyWebApp.DataAccess.Repository
 {

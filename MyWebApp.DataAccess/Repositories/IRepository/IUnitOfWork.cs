@@ -1,17 +1,15 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
-using System.Threading.Tasks;
 using System.Text;
-using MyWebApp.Models;
+using System.Threading.Tasks;
 using MyWebApp.DataAccess.Repositories.IRepository;
-
 
 namespace MyWebApp.DataAccess.Repositories.IRepository
 {
-    public interface ICategoryRepository : IRepository<Category>
+    public interface IUnitOfWork
     {
-        void Update(Category obj);
+        ICategoryRepository Category { get;}
+        void Save();
     }
-} 
+}

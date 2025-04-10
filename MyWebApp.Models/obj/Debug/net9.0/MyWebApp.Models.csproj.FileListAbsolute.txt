@@ -1,12 +1,12 @@
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\bin\Debug\net9.0\MyWebApp.Models.deps.json
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\bin\Debug\net9.0\MyWebApp.Models.dll
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\bin\Debug\net9.0\MyWebApp.Models.pdb
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.AssemblyInfoInputs.cache
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.AssemblyInfo.cs
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.csproj.CoreCompileInputs.cache
-C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\bin\Debug\net9.0\MyWebApp.Models.deps.json
-C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\bin\Debug\net9.0\MyWebApp.Models.dll
-C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\bin\Debug\net9.0\MyWebApp.Models.pdb
+C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.sourcelink.json
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.dll
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\refint\MyWebApp.Models.dll
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.pdb
 C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\ref\MyWebApp.Models.dll
-C:\Users\mubas\Desktop\MVC-WebApp\MyWebApp.Models\obj\Debug\net9.0\MyWebApp.Models.sourcelink.json

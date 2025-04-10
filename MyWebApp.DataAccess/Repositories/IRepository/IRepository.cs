@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace MyWebApp.DataAccess.Repository.IRepository
+namespace MyWebApp.DataAccess.Repositories.IRepository
 {
     public interface IRepository<T> where T : class
     {
